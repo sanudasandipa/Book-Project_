@@ -19,19 +19,30 @@ Responsive Layout: Optimized for desktops, tablets, and mobile devices.
 Dynamic Animations: Features such as auto-sliding book carousels and visually appealing effects.
 
 Color Palette
+
  Background: #F4F1EA (Cream)
+ 
 Primary: #8B4513 (Saddle Brown)
+
  Accent: #D2691E (Chocolate)
+ 
 Text: #3C3C3C (Dark Gray)
+
  Buttons: #C19A6B (Light Brown)
 
 🚀 Tech Stack
 Frontend: React.js, CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 API Integration: Google Books API
+
 Deployment:
-Frontend: Netlify
+
+Frontend: Railway
+
 Backend: Railway
 
 # 🛠️ Installation & Setup
