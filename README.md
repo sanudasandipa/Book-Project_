@@ -96,14 +96,20 @@ npm start
 Access the application at http://localhost:3000.
 
 🌍 Live Demo
+
 Try the live version here: [Live Demo Link](https://frontend-production-73ba.up.railway.app/)
 
 🤝 Contributions
+
 We welcome contributions to enhance this project! Feel free to open issues or submit pull requests.
 
 📧 Contact Us
+
 Have questions or feedback? Contact us via the Contact Us form or email us at sanudasandipa29@gmail.com
 
-📜 License
-This project is licensed under the MIT License.
+## 📜 License
 
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute the code with proper attribution.
+
+See the [LICENSE](LICENSE) file for more details.
