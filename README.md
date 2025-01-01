@@ -11,12 +11,14 @@ Welcome to Wordplay Bookstore, your one-stop destination for exploring and manag
 Clean and Modern UI: Easy-to-navigate interface with beautiful components.
 Responsive Layout: Optimized for desktops, tablets, and mobile devices.
 Dynamic Animations: Features such as auto-sliding book carousels and visually appealing effects.
+
 Color Palette
 Background: #F4F1EA (Cream)
 Primary: #8B4513 (Saddle Brown)
 Accent: #D2691E (Chocolate)
 Text: #3C3C3C (Dark Gray)
 Buttons: #C19A6B (Light Brown)
+
 🚀 Tech Stack
 Frontend: React.js, CSS
 Backend: Node.js, Express.js
@@ -25,11 +27,13 @@ API Integration: Google Books API
 Deployment:
 Frontend: Netlify
 Backend: Railway
+
 🛠️ Installation & Setup
 Clone the Repository
-bash
+```bash
 Copy code
-git clone https://github.com/your-username/wordplay-bookstore.git  
+git clone https://github.com/your-username/wordplay-bookstore.git
+```  
 cd wordplay-bookstore  
 Install Dependencies
 bash
