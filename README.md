@@ -1,12 +1,16 @@
 📚 Wordplay Bookstore
 Welcome to Wordplay Bookstore, your one-stop destination for exploring and managing your favorite books! Built using the MERN stack, this application integrates seamlessly with the Google Books API to deliver a modern and engaging user experience.
 
-🌟 Features
+# 🌟 Features: 
 🔍 Explore Books: Search and browse books effortlessly through the Google Books API.
+
 ⭐ Favorites Management: Add and remove books to your personal favorites list.
+
 🔑 Login & Signup: Secure authentication for personalized access.
+
 📞 Contact Us: A simple form for user inquiries and feedback.
-🌐 Live Demo: Experience the app in action here: Live Demo Link.
+
+🌐 Live Demo: Experience the app in action here: [Live Demo Link](https://frontend-production-73ba.up.railway.app/).
 
 🎨 Design Highlights
 Clean and Modern UI: Easy-to-navigate interface with beautiful components.
