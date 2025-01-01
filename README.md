@@ -1,4 +1,5 @@
-📚 Wordplay Bookstore
+# 📚 Wordplay Bookstore
+
 Welcome to Wordplay Bookstore, your one-stop destination for exploring and managing your favorite books! Built using the MERN stack, this application integrates seamlessly with the Google Books API to deliver a modern and engaging user experience.
 
 # 🌟 Features: 
@@ -18,11 +19,11 @@ Responsive Layout: Optimized for desktops, tablets, and mobile devices.
 Dynamic Animations: Features such as auto-sliding book carousels and visually appealing effects.
 
 Color Palette
-Background: #F4F1EA (Cream)
+ Background: #F4F1EA (Cream)
 Primary: #8B4513 (Saddle Brown)
-Accent: #D2691E (Chocolate)
+ Accent: #D2691E (Chocolate)
 Text: #3C3C3C (Dark Gray)
-Buttons: #C19A6B (Light Brown)
+ Buttons: #C19A6B (Light Brown)
 
 🚀 Tech Stack
 Frontend: React.js, CSS
