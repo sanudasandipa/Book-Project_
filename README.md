@@ -9,7 +9,7 @@ Welcome to Wordplay Bookstore, your one-stop destination for exploring and manag
 
 🔑 Login & Signup: Secure authentication for personalized access.
 
-📞 Contact Us: A simple form for user inquiries and feedback.
+📞 Contact Us: A simple form for user inquiries and feedback using EmailJS.
 
 🌐 Live Demo: Experience the app in action here: [Live Demo Link](https://frontend-production-73ba.up.railway.app/).
 
